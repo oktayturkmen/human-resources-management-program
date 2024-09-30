@@ -1,0 +1,94 @@
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\Insan Kaynaklari Takip Programi.exe.config
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\Insan Kaynaklari Takip Programi.exe
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\Insan Kaynaklari Takip Programi.pdb
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.csproj.AssemblyReference.cache
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmDepartmanlar.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.Properties.Resources.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.csproj.GenerateResource.cache
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.exe
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.pdb
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmPersonelEkle.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.csproj.CopyComplete
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmAnaSayfa.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmPersonelListele.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmKullanici.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmSifremiUnutum.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmYeniKullanici.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmYapilanZamlar.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Spreadsheet.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraSpreadsheet.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Spreadsheet.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraSpreadsheet.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan Kaynaklari Takip Programi.exe.licenses
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmPrimleriGoster.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmPrimEkle.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmPersoneleGorePrimler.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmMesaiEkle.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmMesailer.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmizinturleri.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmPersonelMesaileri.resources
+C:\Users\oktay\source\repos\Insan Kaynaklari Takip Programi\Insan Kaynaklari Takip Programi\obj\Debug\Insan_Kaynaklari_Takip_Programi.frmizinHarketleri.resources
